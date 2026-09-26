@@ -1,0 +1,11 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['BIODEGRADABLE', 'NONBIODEGRADABLE']
+
+roboflow:
+  
+
+  url: https://app.roboflow.com/ds/IqUxL7EhRO?key=EHpNDnGfUk
